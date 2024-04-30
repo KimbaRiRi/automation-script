@@ -1,6 +1,7 @@
 #data
 tweets_sample.json
 tweets.json
+Data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
