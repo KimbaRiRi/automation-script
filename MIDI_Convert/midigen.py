@@ -63,10 +63,10 @@ def create_drum_midi(csv_file, midi_file, bpm):
             drum_mapping = {
                 'crash': 49,
                 'hihat_c': 42,
-                'kick_drum': 36,
+                'kick_drum': 35,
                 'ride': 51,
                 'snare': 38,
-                'tom_h': 50
+                'tom_h': 47
                 # Add more mappings if needed
             }
 

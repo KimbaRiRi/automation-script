@@ -63,9 +63,9 @@ def convert_txt_to_midi(input_file, output_file, bpm):
     midi_file.save(output_file)
 
 # Example usage
-input_file = "midi/ADTOF/Plave_waitforyou.txt"  # Replace with your text file path
-output_file = "midi/ADTOF/Plave_waitforyou.mid"
-bpm = 95  # Set your desired BPM
+input_file = "midi/_AudioDecrypted/riizeimpossibleh.txt"  # Replace with your text file path
+output_file = "midi/_AudioDecrypted/riizeimpossibleh.mid"
+bpm = 153  # Set your desired BPM
 
 convert_txt_to_midi(input_file, output_file, bpm)
 print(f"Converted MIDI file saved to: {output_file}")

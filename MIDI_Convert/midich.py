@@ -44,7 +44,7 @@ def convert_to_percussion_midi(input_file, output_file):
       print(f"Error saving converted MIDI file: {e}")
 
 # Example usage
-input_file = "breakthebrake.mid"
-output_file = "percussion.mid"
+input_file = "midi/_myComposition/ONF_ByeMyMonster.mid"
+output_file = "midi/ONF_ByeMyMonster.mid"
 convert_to_percussion_midi(input_file, output_file)
 print(f"Converted MIDI file saved to: {output_file}")
